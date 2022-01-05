@@ -1,6 +1,5 @@
 ## 🚩 Shotcuts
-<p align="center"><a href="https://github.com/orgs/katorlys/repositories"><img width="24%" src="Media/Repos.png"></a> <a target="_blank" href="https://katorly.gitee.io/lab/projects.html"><img width="24%" src="Media/Trend.png"></a> <a target="_blank" href="https://katorly.gitbook.io"><img width="24%" src="Media/Docs.png"></a> <a target="_blank" href="https://gitpod.io/workspaces"><img width="24%" src="Media/CodeOL.png"></a></p>
-About us? <a target="_blank" href="https://katorly.gitee.io/lab">Click here</a><br>
+<p align="center"><a href="https://katorly.gitee.io/lab"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/Media/Home.png"></a> <a target="_blank" href="https://katorly.gitbook.io"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/Media/Docs.png"></a> <a target="_blank" href="https://github.com/orgs/katorlys/repositories"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/Media/Repos.png"></a> <a target="_blank" href="https://gitpod.io/workspaces"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/Media/CodeOL.png"></a></p>
 
 ## 📈Statistics
 <a href="https://github.com/katorlys"><img src="https://badges.pufler.dev/visits/katorlys/.github?style=for-the-badge&color=85ABFF"></a> <a href="https://github.com/katorlys"><img src="https://badges.pufler.dev/repos/katorlys?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorlys"><img src="https://badges.pufler.dev/years/katorlys?style=for-the-badge&color=GREEN"></a><br>
