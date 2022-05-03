@@ -1,6 +1,5 @@
-## 🚩 Shotcuts
-<p align="center"><a href="https://katorly.gitee.io/lab"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/Media/Home.png"></a> <a target="_blank" href="https://katorly.gitbook.io"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/Media/Docs.png"></a> <a target="_blank" href="https://github.com/orgs/katorlys/repositories"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/Media/Repos.png"></a> <a target="_blank" href="https://gitpod.io/workspaces"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/Media/CodeOL.png"></a></p>
-Want to contribute? <a target="_blank" href="https://katorly.gitbook.io/home/get-started/make-contributions">Contribute</a> or <a target="_blank" href="https://katorly.gitbook.io/home/get-started/join-us">Join us</a>!
+## 🧭 Navigation
+<p align="center"><a href="https://katorlys.github.io"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/media/Home.png"></a> <a target="_blank" href="https://github.com/katorlys/HelpCenter/wiki"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/media/Document.png"></a> <a target="_blank" href="https://github.com/katorlys/HelpCenter/discussions"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/media/Discussion.png"></a> <a target="_blank" href="https://katorlys.github.io/involving.html"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/media/Get_involved.png"></a></p>
 
-## 📈Statistics
+## 📊 Statistics
 <a href="https://github.com/katorlys"><img src="https://img.shields.io/badge/OWNER-Katorly-85ABFF?style=for-the-badge"></a> <a href="https://github.com/katorlys"><img src="https://badges.pufler.dev/repos/katorlys?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorlys"><img src="https://img.shields.io/badge/FOUNDED-2020-brightgreen?style=for-the-badge"></a><br>
