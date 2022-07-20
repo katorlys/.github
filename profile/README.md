@@ -1,5 +1,5 @@
 ## 🧭 Navigation
 <p align="center"><a href="https://katorlys.github.io"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/media/Home.png"></a> <a target="_blank" href="https://github.com/katorlys/HelpCenter/wiki"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/media/Document.png"></a> <a target="_blank" href="https://github.com/katorlys/HelpCenter/discussions"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/media/Discussion.png"></a> <a target="_blank" href="https://katorlys.github.io/involving.html"><img width="24%" src="https://cdn.jsdelivr.net/gh/katorlys/.github/media/Get_involved.png"></a></p>
 
-## 📊 Statistics
-<a href="https://github.com/katorlys"><img src="https://img.shields.io/badge/OWNER-Katorly-85ABFF?style=for-the-badge"></a> <a href="https://github.com/katorlys"><img src="https://badges.pufler.dev/repos/katorlys?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorlys"><img src="https://img.shields.io/badge/FOUNDED-2020-brightgreen?style=for-the-badge"></a><br>
+<!-- ## 📊 Statistics
+<a href="https://github.com/katorlys"><img src="https://img.shields.io/badge/OWNER-Katorly-85ABFF?style=for-the-badge"></a> <a href="https://github.com/katorlys"><img src="https://badges.pufler.dev/repos/katorlys?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorlys"><img src="https://img.shields.io/badge/FOUNDED-2020-brightgreen?style=for-the-badge"></a><br> -->
