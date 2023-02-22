@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help Center
+    url: https://github.com/orgs/katorlys/discussions
+    about: To seek help, please go to our HelpCenter to open a new discussion, and do not open an issue here.
+  - name: Chat Room
+    url: https://katorlys.github.io/contact.html
+    about: If it's not convenient for you to create an issue, please reach out the developers here. However, it is not recommended to do so.
