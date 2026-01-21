@@ -30,6 +30,5 @@ Pull requests are used to:
 - Contribute code
 - Localizing contents
 - Other contributions that are related to the project
-
-You have to sign the [Contributor License Agreement (CLA)](/.github/cla.md) before your pull request is merged.  
+ 
 Remember that formatting contents will not be accepted.  
