@@ -2,19 +2,20 @@
 
 ## Supported Versions
 
-The versions of the project that are currently being supported with security updates:  
+The following project versions currently receive security updates:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| latest  | :white_check_mark: |
-| active* | :white_check_mark: |
-| legacy  | :x:                |
-  
-**active: Versions that are still under development, or have been updated recently.*
+| latest  | ✅                 |
+| active* | ✅                 |
+| legacy  | ❌                 |
+
+**active: Versions that are still under development or have been updated recently.*
 
 ## Reporting a Vulnerability
 
-Please contact the developers directly **via email** to report any security issues you've found.  
-**DO NOT** use Issues or Discussions as it will cause more damage than help.  
+If you find a security issue, please report it to the developers directly **by email**.
 
-Please note that we are not able to pay bounties currently. However, we are grateful to every contributions you make.  
+**DO NOT** report security issues through GitHub Issues or GitHub Discussions, as that may expose the problem before it can be reviewed and fixed.
+
+We do not currently offer bug bounties. Still, we appreciate every report and the time you take to help keep our projects safe.

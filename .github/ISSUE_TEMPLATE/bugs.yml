@@ -1,20 +1,20 @@
 name: Bugs
-description: Encounter any bugs? Report them now!
+description: Found a bug? Report it here.
 title: "[Bug] "
 body:
   - type: markdown
     attributes:
       value: |
         ### Guidelines
-        Be sure to read the [Contributing Guidelines](https://github.com/katorlys/.github/blob/main/.github/CONTRIBUTING.md) and [Code of Conduct](https://github.com/katorlys/.github/blob/main/CODE_OF_CONDUCT.md) before opening a new issue.
-        To report a security vulnerability, please review our Security Policy for more details.
+        Please read the [Contributing Guidelines](https://katorly.com/docs/contribute/contributing) and [Code of Conduct](https://katorly.com/docs/contribute/code-of-conduct) before opening an issue.
+        If you want to report a security vulnerability, please review our [Security Policy](https://katorly.com/docs/contribute/security) first.
   - type: textarea
     attributes:
       label: Describe the bug
       description: |
-        Make a clear and concise description of what the bug is. Insert screenshots or recorded videos if neccessary.
-        You may paste compile errors or console errors you've encountered (if there is any). Make sure to copy the entire error.
-        If you are willing to use a paste site, please use something like https://gist.github.com or https://pastebin.com.
+        Provide a clear and concise description of the bug. If applicable, add screenshots or screen recordings.
+        You can include any build, compile, or console errors you encountered. Please copy the full error message.
+        For large blocks of text, please use https://gist.github.com or https://pastebin.com.
     validations:
       required: true
   - type: input
@@ -40,7 +40,7 @@ body:
       label: Steps to Reproduce
       description: |
         Tell us how to reproduce this issue.
-        If applicable, add screenshots to help explain the steps.
+        If applicable, add screenshots to explain the steps.
       value: "1. "
     validations:
       required: true
@@ -48,24 +48,24 @@ body:
     attributes:
       label: Expected behavior
       description: |
-        Tell us what should happen.
-        If applicable, add screenshots to help explain the steps.
+        Tell us what you expected to happen.
+        If applicable, add screenshots to provide context.
     validations:
       required: true
   - type: textarea
     attributes:
       label: Actual behavior
       description: |
-        Tell us what happens instead.
-        If applicable, add screenshots to help explain the steps.
+        Tell us what happened instead.
+        If applicable, add screenshots to provide context.
     validations:
       required: true
   - type: textarea
     attributes:
       label: Other
       description: |
-        Have anything else to add?
-        Let us know if you have any additional feedback!
+        Add anything else that might help us understand the issue.
+        You can also share any related context or feedback here.
     validations:
       required: false
       

@@ -1,8 +1,11 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: Help Center
+  - name: GitHub Discussions
     url: https://github.com/orgs/katorlys/discussions
-    about: To seek help, please go to our HelpCenter to open a new discussion, and do not open an issue here.
-  - name: Chat Room
-    url: https://katorlys.github.io/contact.html
-    about: If it's not convenient for you to create an issue, please reach out the developers here. However, it is not recommended to do so.
+    about: If you need help, please open a new discussion here instead of opening an issue.
+  - name: Discord
+    url: https://katorly.com/discord
+    about: Join our Discord server to chat with us and other users in real time.
+  - name: Contact
+    url: https://katorly.com/contact
+    about: For private inquiries or other non-public matters, please contact us.
