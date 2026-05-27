@@ -1,0 +1,40 @@
+name: 💡 Suggestion
+description: Suggest an idea
+title: "[Suggest] "
+type: Suggestion
+body:
+  - type: textarea
+    attributes:
+      label: 📝 Description
+      description: |
+        Provide a clear and concise description of your suggestion.  
+        Include screenshots, screen recordings, examples, or references if applicable.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 🎯 Reason
+      description: Explain why this suggestion would be useful.
+      placeholder: "I'm suggesting this because..."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 💬 Additional information
+      description: |
+        Add any other context that may help us understand your suggestion.
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: 📋 Checklist
+      description: |
+        Thanks for taking the time to suggest the idea!  
+        Before submitting, please make sure you have done the following:
+      options:
+        - label: I have searched existing issues and confirm that this is not a duplicate.
+          required: true
+        - label: I have read the [Contributing Guidelines](https://katorly.com/docs/contribute/contributing) and [Code of Conduct](https://katorly.com/docs/contribute/code-of-conduct).
+          required: true
+        - label: This is not a security vulnerability report. If it is, please follow our [Security Policy](https://katorly.com/docs/contribute/security).
+          required: true
